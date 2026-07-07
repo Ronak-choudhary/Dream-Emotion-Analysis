@@ -61,9 +61,8 @@ The project addresses this challenge through data cleaning, feature engineering,
 ```text
 dream-emotion-analysis/
 │
-├── data/
-├── notebooks/
-├── outputs/
+├── data
+├── notebook
 ├── README.md
 ├── requirements.txt
 └── LICENSE
