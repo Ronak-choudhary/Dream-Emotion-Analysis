@@ -92,6 +92,10 @@ Key outcomes include:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Ronak Choudhary
+**Ronak Choudhary**
+
+B.Sc. Computer Science | SSCBS, University of Delhi
+
+Aspiring Data Analyst
